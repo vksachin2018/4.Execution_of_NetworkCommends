@@ -1,6 +1,6 @@
 # 4.Execution_of_NetworkCommands
 ### DATE: 14/10/2024
-### NAME: GOKUL SACHIN K
+### NAME: GOKUL SACHIN K 
 ### REG.NO: 212223220025 
 
 ## AIM :Use of Network commands in Real Time environment
